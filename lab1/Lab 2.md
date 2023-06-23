@@ -23,7 +23,7 @@ In this lab, you will be using your own data with Azure OpenAI Large Language Mo
 
 * 1.2 Click on **"Bring your own data"**
 
-![Alt text](image-2.png)
+![Alt text](<Bring your own data.png>)
 
 ### Step 2: Upload your own data
 
@@ -34,26 +34,26 @@ In this lab, you will be using your own data with Azure OpenAI Large Language Mo
     * 2.1.4 Enter the index name: Give an index name e.g aoaiworkshop
     * 2.1.5 Check the acknowledgement and click Next.
 
-![Alt text](image-3.png)
+![Alt text](<add data source openai.png>)
 
 * 2.2 Click on Browse for a file and select the Porche Owner Manual pdf and click Upload files and Next.
 
-![Alt text](image-4.png)
+![Alt text](<upload files.png>)
 
 * 2.3 Click on Save and close
 
-![Alt text](image-5.png)
+![Alt text](<review and finish.png>)
 
 ### Step 3: Interact with Azure OpenAI chatGPT LLM using your own data
 
 * 3.1 Under the Assistant Setup pane, wait until your data upload is finished
 
-![Alt text](image-6.png)
+![Alt text](<data being uploaded.png>)
 
 * 3.2 Under the Chat Session pane, you can start testing out your prompts as shown in the figure below
 
-![Alt text](image-7.png)
+![Alt text](chat.png)
 
 * 3.3 In Configuration pane, you can try and experiment with different parameter configuration to see how it changes the behavior of the model
 
-![Alt text](image-8.png)
+![Alt text](parameters.png)
